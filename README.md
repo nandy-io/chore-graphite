@@ -1,2 +1,2 @@
-# chore-graphite-daemon
-Chore Graphite Daemon
+# chore-graphite
+Chore Graphite
